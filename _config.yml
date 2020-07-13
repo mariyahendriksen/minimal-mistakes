@@ -93,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Mariya Hendriksen"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "PhD candidate @University of Amsterdam"
+  location         : "Amsterdam, the Netherlands"
+  email            : m.hendriksen@uva.nl
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
