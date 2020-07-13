@@ -1,0 +1,12 @@
+TO DO:
+- wids CPH highlights
+- dialogue breakdown detection challenge
+- cross-device search
+
+news to add:
++ DS3 summer school
++ SIGIR 2019 volunteer
++ ICLR 2020 volunteer
++ MLSS 2020 acceptance
++ ETH Zurich Summer Fellowship acceptance
+- inclusive AI add
